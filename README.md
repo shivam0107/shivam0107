@@ -1,4 +1,4 @@
-![logo]("cover page.jpg")
+![logo]("https://github.com/shivam0107/shivam0107/blob/main/cover%20page.jpg")
 <h1 align="center">Hi 👋, I'm Shivam singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
